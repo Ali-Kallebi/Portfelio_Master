@@ -1,0 +1,207 @@
+{ 
+  "Header.Item1": "À Propos",
+  "Header.Item2": "Services",
+  "Header.Item3": "Projets",
+  "Header.Item4": "Contact",
+  "Header.cvBtn": "CV",
+  "Header.cvName": "Cv_Ali_Kallebi_Français.pdf",
+
+  "Banner.Pretitle": "Bonjour ! Je m'appelle",
+  "Banner.Description": " <span class='underline'>Ali</span>, un développeur web passionné par la création de solutions technologiques innovantes et sur mesure. Je suis spécialisé dans l'écriture de code propre, réutilisable et évolutif en utilisant <span class='underline'>Angular</span>, <span class='underline'>Laravel</span> et <span class='underline'>Spring Boot</span>, en suivant toujours les meilleures pratiques et standards de l'industrie.",
+  "Banner.ActionBtn": "Dis-moi Bonjour",
+
+  "AboutMe.Title": "À Propos de Moi",
+  "AboutMe.Paragraphs": [
+    "Avec mon parcours en <span class='underline'>développement web</span>, j'ai occupé divers rôles, y compris <span class='underline'>Développeur Backend</span>, <span class='underline'>Développeur Frontend</span>, et <span class='underline'>Contributeur de Projet</span>. J'aime créer des solutions innovantes qui simplifient les processus et résolvent des problèmes réels.",
+    "Je suis compétent dans l'amélioration des systèmes, l'optimisation des performances des sites web, la mise en œuvre des normes SEO, et la livraison de fonctionnalités qui améliorent l'expérience utilisateur. Mon approche est guidée par la collaboration et le souci du détail.",
+    "Au-delà du travail professionnel, j'aime coder pour des projets personnels, explorer de nouvelles technologies et me challenger avec des idées créatives.",
+    "Les technologies avec lesquelles j'ai travaillé incluent (mais ne sont pas limitées à) : <span class='underline'>Angular</span>, <span class='underline'>Laravel</span>, <span class='underline'>Spring Boot</span>, et divers outils pour le développement frontend et backend."
+  ],
+  "OtherProjects.Title":"Contact",
+
+  "Experience.Title": "Services",
+  "Experience.Jobs": [
+    {
+      "Tab": "Conception Web",
+      "Title": "Designs Modernes et Intuitifs",
+      "Date": "En Cours",
+      "Description": [
+        "Création de designs modernes et intuitifs adaptés aux besoins spécifiques de chaque projet.",
+        "Optimisation des designs pour des expériences engageantes et conviviales.",
+        "Assurance que l'accessibilité et l'esthétique sont priorisées."
+      ]
+    },
+    {
+      "Tab": "Développement Web",
+      "Title": "Applications Robustes",
+      "Date": "En Cours",
+      "Description": [
+        "Développement d'applications web performantes en utilisant Angular, Laravel, et Spring Boot.",
+        "Construction de solutions évolutives pour les demandes modernes des entreprises.",
+        "Respect des meilleures pratiques de l'industrie et des normes de codage propre."
+      ]
+    },
+    {
+      "Tab": "Solutions Cloud",
+      "Title": "Intégration Cloud Sécurisée",
+      "Date": "En Cours",
+      "Description": [
+        "Mise en place de solutions cloud sécurisées pour le stockage et la gestion des données.",
+        "Promotion de l'efficacité et de la flexibilité avec des systèmes basés sur le cloud.",
+        "Assurance d'une intégration fluide avec l'infrastructure existante."
+      ]
+    },
+    {
+      "Tab": "Design Adaptatif",
+      "Title": "Sites Web Adaptatifs",
+      "Date": "En Cours",
+      "Description": [
+        "Conception de sites web réactifs pour un affichage optimal sur mobiles, tablettes et ordinateurs de bureau.",
+        "Offrir des expériences utilisateurs homogènes sur toutes les plateformes.",
+        "Utilisation de frameworks modernes pour des mises en page fluides et cohérentes."
+      ]
+    },
+    {
+      "Tab": "Design Graphique",
+      "Title": "Visuels Créatifs",
+      "Date": "En Cours",
+      "Description": [
+        "Conception de graphiques personnalisés pour renforcer l'identité de la marque.",
+        "Création d'éléments visuels attrayants pour une communication professionnelle.",
+        "Combinaison de créativité et de précision pour répondre aux attentes des clients."
+      ]
+    },
+    {
+      "Tab": "Services Marketing",
+      "Title": "Stratégies de Marketing Numérique",
+      "Date": "En Cours",
+      "Description": [
+        "Création de contenu optimisé pour le SEO pour améliorer la visibilité.",
+        "Gestion des plateformes de médias sociaux pour attirer des clients qualifiés.",
+        "Développement de stratégies générant des résultats mesurables."
+      ]
+    }
+  ],
+
+  "FeatureProjects.Title": "Mes Projets",
+  "FeatureProjects.Label": "Projet Mis en Avant",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "Gestion des Commandes",
+      "Description": "Application web pour la gestion des commandes internes, couvrant les modules pour <span class='underline'>Affectation de Commandes</span> et <span class='underline'>Traitement des Commandes</span> en missions. Développée avec <span class='underline'>Angular</span> et <span class='underline'>Laravel</span>, elle utilise <span class='underline'>Websockets</span>, <span class='underline'>Emplois du Temps</span>, et <span class='underline'>Laravel Jobs</span>. Elle intègre des services tiers tels que WordPress, Zadarma, LiveConnect, et plus.",
+      "imgs": [
+        "assets/images/Commande/1.png",
+        "assets/images/Commande/2.png",
+        "assets/images/Commande/3.png",
+        "assets/images/Commande/6.png",
+        "assets/images/Commande/7.png",
+        "assets/images/Commande/8.png",
+        "assets/images/Commande/9.png"
+      ],
+      "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+    },
+    {
+      "Title": "Gestion des Ressources Humaines",
+      "Description": "Application web pour la gestion des ressources humaines avec un <span class='underline'>CRUD Utilisateur</span> et un registre pour l'enregistrement des préférences des utilisateurs pour le <span class='underline'>Traitement des Commandes</span>. Développée avec <span class='underline'>Angular</span> et <span class='underline'>Laravel</span>, elle exploite la bibliothèque <span class='underline'>chart.js</span> pour la visualisation des données.",
+      "imgs": [
+        "assets/images/Humaine/1.png",
+        "assets/images/Humaine/2.png",
+        "assets/images/Humaine/3.png",
+        "assets/images/Humaine/4.png",
+        "assets/images/Humaine/5.png",
+        "assets/images/Humaine/6.png",
+        "assets/images/Humaine/7.png",
+        "assets/images/Humaine/8.png"
+      ],
+      "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+    },
+    {
+      "Title": "Gestion des Événements et Carburant",
+      "Description": "Application pour le suivi des demandes de ravitaillement en carburant pour les aéronefs, maintenant améliorée avec un <span class='underline'>Module Calendrier</span> pour la gestion des événements. Comprend un système complet de <span class='underline'>CRUD</span> pour créer, mettre à jour et supprimer des événements. L'application comprend également un <span class='underline'>module email</span>, des <span class='underline'>notifications en temps réel</span>, la gestion des fichiers <span class='underline'>CSV pour l'importation de données</span>, et des <span class='underline'>devis de prix</span>. Développée avec <span class='underline'>Angular</span> et <span class='underline'>Laravel</span>.",
+      "imgs": [
+        "assets/images/Event/1.png",
+        "assets/images/Event/2.png",
+        "assets/images/Event/3.png",
+        "assets/images/Event/4.png",
+        "assets/images/Event/5.png"
+      ],
+      "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+    },
+    {
+      "Title": "Gestion des Stocks",
+      "Description": "Application de gestion des stocks avec un <span class='underline'>CRUD</span> complet pour les produits, y compris la possibilité de télécharger et de gérer les images des produits. Développée pour rationaliser le suivi et l'organisation des inventaires. Cette application utilise <span class='underline'>WordPress</span> comme base, avec des plugins développés sur mesure, et exploite <span class='underline'>PHP</span> et <span class='underline'>MySQL</span> pour les opérations backend.",
+      "imgs": [
+        "assets/images/Stock/1.png",
+        "assets/images/Stock/2.png",
+        "assets/images/Stock/3.png",
+        "assets/images/Stock/4.png",
+        "assets/images/Stock/5.png",
+        "assets/images/Stock/6.png",
+        "assets/images/Stock/7.png"
+      ],
+      "Technologies": ["Laravel", "Angular", "PHP", "MySQL"]
+    },
+    {
+      "Title": "Tableau de Bord TechCommerce",
+      "Description": "Plateforme e-commerce pour produits technologiques, intégrant des <span class='underline'>graphiques dynamiques</span> pour la visualisation des données. Conçue pour optimiser le workflow et faciliter la prise de décisions, elle est développée avec <span class='underline'>WordPress</span> et inclut un système d'expédition des produits ainsi que des rapports de ventes personnalisés. Le tableau de bord fournit des informations claires sur des indicateurs essentiels, tels que les performances de vente, le comportement des clients, et la gestion des stocks.",
+      "imgs": [
+        "assets/images/Dashbord/1.png",
+        "assets/images/Dashbord/2.png",
+        "assets/images/Dashbord/3.png"
+      ],
+      "Technologies": ["Laravel", "Angular", "PHP", "MySQL"]
+    },
+    {
+      "Title": "Système de Gestion des Commandes",
+      "Description": "Un système robuste de gestion des commandes incluant des notifications email automatisées envoyées aux clients et aux utilisateurs. Ce système déclenche des emails personnalisés selon les changements de statut des commandes, comme la confirmation, les mises à jour d'expédition, et les notifications de livraison. Il comprend également des <span class='underline'>modèles d'email</span> adaptés à divers scénarios de communication, garantissant une interaction fluide entre la plateforme et ses utilisateurs.",
+      "imgs": [
+        "assets/images/Mail/1.png",
+        "assets/images/Mail/2.png",
+        "assets/images/Mail/3.png",
+        "assets/images/Mail/4.png",
+        "assets/images/Mail/5.png",
+        "assets/images/Mail/6.png",
+        "assets/images/Mail/7.png",
+        "assets/images/Mail/8.png"
+      ],
+      "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+    },
+    {
+      "Title": "Plateforme Immobilière",
+      "Description": "Une plateforme complète pour les agents immobiliers, avec une fonctionnalité avancée de recherche de propriétés adaptée aux préférences des utilisateurs. Elle permet aux agents d'ajouter des annonces, de gérer les demandes, et de fournir des devis selon les besoins des clients. Parmi ses fonctionnalités, on retrouve un <span class='underline'>chat en direct</span>, des <span class='underline'>formulaires de contact</span>, un <span class='underline'>système de notifications via WhatsApp et email</span>, une <span class='underline'>authentification des utilisateurs</span>, et un <span class='underline'>rôle administrateur pour la gestion des propriétés et des clients</span>.",
+      "imgs": [
+        "assets/images/Sfax_immobilier/1.png",
+        "assets/images/Sfax_immobilier/2.png",
+        "assets/images/Sfax_immobilier/3.png"
+      ],
+      "Technologies": ["Spring Boot", "Angular", "SASS", "Angular Material", "RxJS"]
+    },
+    {
+      "Title": "BIG TECH SOLUTIONS",
+      "Description": "Une plateforme dédiée à la création de solutions numériques sur mesure : sites web, applications mobiles, logiciels, logos et autres services multimédia. Nous proposons des <span class='underline'>applications web personnalisées</span>, des <span class='underline'>développements d'applications mobiles</span>, des <span class='underline'>designs de logos professionnels</span>, et des <span class='underline'>solutions logicielles complètes</span>. Chaque projet est conçu en tenant compte des besoins spécifiques de nos clients, avec une attention particulière à l'expérience utilisateur et à la performance.",
+      "imgs": [
+        "assets/images/BIG_Tech/1.png",
+        "assets/images/BIG_Tech/2.png",
+        "assets/images/BIG_Tech/3.png",
+        "assets/images/BIG_Tech/4.png",
+        "assets/images/BIG_Tech/5.png",
+        "assets/images/BIG_Tech/6.png",
+        "assets/images/BIG_Tech/7.png",
+        "assets/images/BIG_Tech/8.png",
+        "assets/images/BIG_Tech/9.png"
+      ],
+      "Technologies": ["Spring Boot", "Angular", "SASS", "Angular Material", "RxJS"]
+    }
+  ],
+  
+    "Contact": {
+      "Pretitle": "Contactez-moi",
+      "Title": "Prenez contact",
+      "Content": "N'hésitez pas à me contacter via les canaux suivants.",
+      "EmailBtn": "Envoyer un Email",
+      "WTSPBtn": "Envoyer via WhatsApp",
+      "InstagramBtn": "Suivez-moi sur Instagram"
+    }
+  }
+  
+

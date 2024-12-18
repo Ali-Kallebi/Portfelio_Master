@@ -1,0 +1,29 @@
+<footer>
+    <div [@animateFooter]>
+        <ul class="footer-left-bar d-none d-md-block">
+            <li>
+                <a (click)='analyticsService.sendAnalyticEvent("click_github", "footer", "github")' href="https://github.com/Ali-Kallebi" target='_blank'>
+                    <i class="fab fa-github"></i>
+                </a>
+            </li>
+            <li>
+                <a (click)='analyticsService.sendAnalyticEvent("click_facebook", "footer", "facebook")' href="https://www.facebook.com/alibenamer.kallebi" target='_blank'>
+                    <i class="fab fa-facebook"></i>
+                </a>
+            </li>
+        </ul>
+        <div class="footer-right-bar d-none d-md-block">
+            <a (click)='analyticsService.sendAnalyticEvent("click_send_mail", "footer", "email")' href="mailto:alikallebi.dev@gmail.com" target='_blank'>alikallebi.dev&#64;gmail.com</a>
+        </div>
+    </div>
+
+    <div class="footer-credits text-center">
+        <a (click)='analyticsService.sendAnalyticEvent("click_github_portfolio_andresjose", "footer", "click")' href="https://github.com/Ali-Kallebi" target="_blank" rel="nofollow noopener noreferrer">
+            <div>Built with Angular by Ali Kallebi</div>
+        </a>
+        <a (click)='analyticsService.sendAnalyticEvent("click_whatsapp", "footer", "click")' href="https://wa.me/223448595" target="_blank" rel="nofollow noopener noreferrer">
+            <div class="mt-2">Chat with me on WhatsApp</div>
+        </a>
+    </div>
+
+</footer>

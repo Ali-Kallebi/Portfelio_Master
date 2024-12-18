@@ -1,0 +1,218 @@
+{
+  "Header.Item1": "About Me",
+  "Header.Item2": "Services",
+  "Header.Item3": "Projects",
+  "Header.Item4": "Contact",
+  "Header.cvBtn": "Resume",
+  "Header.cvName": "Cv_Ali_Kallebi_English.pdf",
+
+ "Banner.Pretitle": "Hello! My name is",
+"Banner.Description": " <span class='underline'>Ali</span>, a passionate web developer with a strong focus on creating innovative and tailored technological solutions. I specialize in writing clean, reusable, and scalable code using <span class='underline'>Angular</span>, <span class='underline'>Laravel</span>, and <span class='underline'>Spring Boot</span>, always following industry best practices and standards.",
+"Banner.ActionBtn": "Say Hi",
+"OtherProjects.Title":"Contact",
+"AboutMe.Title": "About Me",
+"AboutMe.Paragraphs": [
+    "With my background in <span class='underline'>web development</span>, I have successfully undertaken various roles, including <span class='underline'>Backend Developer</span>, <span class='underline'>Frontend Developer</span>, and <span class='underline'>Project Contributor</span>. I enjoy creating innovative solutions that simplify processes and solve real-world problems.",
+    "I am skilled in improving systems, optimizing website performance, ensuring SEO standards, and delivering features that enhance user experiences. My approach is driven by collaboration and attention to detail.",
+    "Beyond professional work, I enjoy coding for personal projects, exploring new technologies, and challenging myself with creative ideas.",
+    "Technologies I have worked with include (but are not limited to): <span class='underline'>Angular</span>, <span class='underline'>Laravel</span>, <span class='underline'>Spring Boot</span>, and various tools for frontend and backend development."
+],
+
+
+ "Experience.Title": "Services",
+"Experience.Jobs": [
+    {
+      "Tab": "Web Design",
+      "Title": "Modern and Intuitive Designs",
+      "Date": "Ongoing",
+      "Description": [
+        "Creating modern and intuitive designs tailored to each project's specific needs.",
+        "Optimizing designs for engaging and user-friendly experiences.",
+        "Ensuring accessibility and aesthetics are prioritized."
+      ]
+    },
+    {
+      "Tab": "Web Development",
+      "Title": "Robust Applications",
+      "Date": "Ongoing",
+      "Description": [
+        "Developing high-performance web applications using Angular, Laravel, and Spring Boot.",
+        "Building scalable solutions for modern business demands.",
+        "Adhering to industry best practices and clean coding standards."
+      ]
+    },
+    {
+      "Tab": "Cloud Solutions",
+      "Title": "Secure Cloud Integration",
+      "Date": "Ongoing",
+      "Description": [
+        "Implementing secure cloud solutions for storage and data management.",
+        "Promoting efficiency and flexibility with cloud-based systems.",
+        "Ensuring seamless integration with existing infrastructure."
+      ]
+    },
+    {
+      "Tab": "Responsive Design",
+      "Title": "Adaptable Websites",
+      "Date": "Ongoing",
+      "Description": [
+        "Designing responsive websites for optimal viewing on mobile devices, tablets, and desktops.",
+        "Providing seamless user experiences across all platforms.",
+        "Employing modern frameworks for fluid and consistent layouts."
+      ]
+    },
+    {
+      "Tab": "Graphic Design",
+      "Title": "Creative Visuals",
+      "Date": "Ongoing",
+      "Description": [
+        "Designing custom graphics to strengthen brand identity.",
+        "Creating visually appealing assets for professional communication.",
+        "Combining creativity and precision to meet client expectations."
+      ]
+    },
+    {
+      "Tab": "Marketing Services",
+      "Title": "Digital Marketing Strategies",
+      "Date": "Ongoing",
+      "Description": [
+        "Crafting SEO-optimized content to improve visibility.",
+        "Managing social media platforms to attract qualified customers.",
+        "Developing strategies that drive measurable results."
+      ]
+    }
+],
+
+
+  "FeatureProjects.Title": "My Projects",
+  "FeatureProjects.Label": "Highlighted Project",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "Order Management",
+      "Description": "Web application for internal order management, covering the modules for <span class='underline'>Order Assignment</span> and <span class='underline'>Order Processing</span> as missions. Developed using <span class='underline'>Angular</span> and <span class='underline'>Laravel</span>, it utilizes <span class='underline'>websockets</span>, <span class='underline'>schedules</span>, and <span class='underline'>laravel jobs</span>. It integrates third-party services such as WordPress, Zadarma, LiveConnect, and more.",
+      "imgs": [
+        "assets/images/Commande/1.png",
+        "assets/images/Commande/2.png",
+        "assets/images/Commande/3.png",
+        "assets/images/Commande/6.png",
+        "assets/images/Commande/7.png",
+        "assets/images/Commande/8.png",
+        "assets/images/Commande/9.png"
+      ],
+      "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+    },
+    {
+      "Title": "Human Resources Management",
+      "Description": "Web application for human resources management featuring a <span class='underline'>User CRUD</span> and a registry for recording user preferences for <span class='underline'>Order Processing</span>. Developed using <span class='underline'>Angular</span> and <span class='underline'>Laravel</span>, it leverages the <span class='underline'>chart.js</span> library for data visualization.",
+      "imgs": [
+        "assets/images/Humaine/1.png",
+        "assets/images/Humaine/2.png",
+        "assets/images/Humaine/3.png",
+        "assets/images/Humaine/4.png",
+        "assets/images/Humaine/5.png",
+        "assets/images/Humaine/6.png",
+        "assets/images/Humaine/7.png",
+        "assets/images/Humaine/8.png"
+      ],
+      "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+    },
+    
+    
+    {
+      "Title": "Event and Fuel Management",
+      "Description": "Application for tracking fuel supply requests for aircraft, now enhanced with a <span class='underline'>Calendar Module</span> for event management. Includes a full <span class='underline'>CRUD</span> system for creating, updating, and deleting events. The application also features an <span class='underline'>email module</span>, <span class='underline'>real-time notifications</span>, <span class='underline'>CSV file handling for data import</span>, and <span class='underline'>price quotes</span>. Developed using <span class='underline'>Angular</span> and <span class='underline'>Laravel</span>.",
+      "imgs": [
+        "assets/images/Event/1.png",
+        "assets/images/Event/2.png",
+        "assets/images/Event/3.png",
+        "assets/images/Event/4.png",
+        "assets/images/Event/5.png"
+      ],
+      "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+    },
+    
+    {
+      "Title": "Stock Management",
+      "Description": "Stock management application with a complete <span class='underline'>CRUD</span> for products, including the ability to upload and manage product images. Developed to streamline inventory tracking and organization. This application uses <span class='underline'>WordPress</span> for its base, with custom-developed plugins, and leverages <span class='underline'>PHP</span> and <span class='underline'>MySQL</span> for backend operations.",
+      "imgs": [
+        "assets/images/Stock/1.png",
+        "assets/images/Stock/2.png",
+        "assets/images/Stock/3.png",
+        "assets/images/Stock/4.png",
+        "assets/images/Stock/5.png",
+        "assets/images/Stock/6.png",
+        "assets/images/Stock/7.png"
+      ],
+      "Technologies": ["Laravel", "Angular", "PHP", "MySQL"]
+    },
+    
+    {
+      "Title": "TechCommerce Dashboard",
+      "Description": "An e-commerce platform for technology products, featuring dynamic <span class='underline'>charts</span> for data visualization to optimize workflow and facilitate decision-making. Developed with <span class='underline'>WordPress</span>, it includes a product shipping system and offers customized sales reporting. The dashboard provides clear insights into essential metrics, such as sales performance, customer behavior, and inventory levels.",
+      "imgs": [
+        "assets/images/Dashbord/1.png",
+        "assets/images/Dashbord/2.png",
+        "assets/images/Dashbord/3.png"
+      ],
+      "Technologies": ["laravel", "Angular",  "PHP", "MySQL"]
+    },
+    
+    {
+      "Title": "Commande Management System",
+      "Description": "A robust order management system featuring automated email notifications sent to both clients and users. This system triggers personalized emails based on order status changes, including confirmation, shipping updates, and delivery notifications. It also includes <span class='underline'>email templates</span> for various communication scenarios, ensuring seamless interaction between the platform and its users.",
+      "imgs": [
+        "assets/images/Mail/1.png",
+        "assets/images/Mail/2.png",
+        "assets/images/Mail/3.png",
+        "assets/images/Mail/4.png",
+        "assets/images/Mail/5.png",
+        "assets/images/Mail/6.png",
+        "assets/images/Mail/7.png",
+        "assets/images/Mail/8.png"
+      ],
+      "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+    },
+    
+    {
+      "Title": "Immobilier Agent Platform",
+      "Description": "A comprehensive platform for real estate agents, featuring advanced property search functionality tailored to the user's preferences. The platform allows agents to list properties, manage inquiries, and provide quotes based on client requirements. It includes <span class='underline'>live chat</span>, <span class='underline'>contact forms</span>, <span class='underline'>notification system via WhatsApp and email</span>, <span class='underline'>user authentication</span>, and <span class='underline'>admin role for property and client management</span>.",
+      "imgs": [
+        "assets/images/Sfax_immobilier/1.png",
+        "assets/images/Sfax_immobilier/2.png",
+        "assets/images/Sfax_immobilier/3.png"
+      ],
+      "Technologies": ["Spring Boot", "Angular", "SASS", "Angular Material", "RxJS"]
+    },
+    
+    {
+      "Title": "BIG TECH SOLUTIONS",
+      "Description": "Plateforme dédiée à la création de solutions numériques sur mesure, incluant des sites web, des applications mobiles, des logiciels, des logos et autres services multimédia. Nous proposons des <span class='underline'>applications web personnalisées</span>, des <span class='underline'>développements d'applications mobiles</span>, des <span class='underline'>designs de logos professionnels</span>, ainsi que des <span class='underline'>solutions logicielles complètes</span>. Chaque projet est conçu en fonction des besoins spécifiques de nos clients, avec une attention particulière portée à l'expérience utilisateur et à la performance.",
+      "imgs": [
+        "assets/images/BIG_Tech/1.png",
+        "assets/images/BIG_Tech/2.png",
+        "assets/images/BIG_Tech/3.png",
+        "assets/images/BIG_Tech/4.png",
+        "assets/images/BIG_Tech/5.png",
+        "assets/images/BIG_Tech/6.png",
+        "assets/images/BIG_Tech/7.png",
+        "assets/images/BIG_Tech/8.png",
+        "assets/images/BIG_Tech/9.png"
+      ],
+      "Technologies": ["Spring Boot", "Angular", "SASS", "Angular Material", "RxJS"]
+    }
+    
+  ],
+
+
+
+
+
+  "Contact": {
+    "Pretitle": "Get in touch",
+    "Title": "Contact Me",
+    "Content": "Feel free to reach out to me via the following channels.",
+    "EmailBtn": "Send an Email",
+    "WTSPBtn": "Send via WhatsApp",
+    "InstagramBtn": "Follow me on Instagram"
+  }
+}
